@@ -96,3 +96,28 @@ a:hover {
 h2 + p:first-letter {
     font-size: 2em;
 }
+
+.header {
+    
+}
+.center {
+    
+}
+.menu {
+    background-color: #E3B448;
+    float: left;
+    width: 10em;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding-inline-start: 10px;
+}
+
+.content {
+    height: 100%;
+    margin-left: 10em;
+}
+.footer {
+    clear: both;
+}
