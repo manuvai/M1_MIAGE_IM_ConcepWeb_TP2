@@ -55,7 +55,7 @@ strong {
 @media screen and (max-width: 768px) {
     .logo {
         display: block;
-        margin-left: auto;
+        margin-right: auto;
     }
 
     .content {
