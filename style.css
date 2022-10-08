@@ -116,8 +116,20 @@ h2 + p:first-letter {
 
 .content {
     height: 100%;
-    margin-left: 10em;
+    margin-left: 11em;
 }
 .footer {
     clear: both;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.footer ul li {
+    flex-basis: 12em;
+    border: 2px solid;
+    padding: 1em;
 }
