@@ -1,4 +1,4 @@
-URL du site pour le TP1 : http://etu-web2/~22207784/TP2/
+URL du site pour le TP2 : http://etu-web2/~22207784/TP2/
 Lien vers le dépôt Github : https://github.com/manuvai/M1_MIAGE_IM_ConcepWeb_TP2
 
 Nom : REHUA
